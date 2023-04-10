@@ -21,6 +21,7 @@ Not much here. just a simple water reminder app that helps me drink more water.
 -   [ ] Add menu bar icon
 -   [ ] Add settings
 -   [ ] Add progress bar
+-   [x] Add notification sound
 -   [ ] Add a way to track how much water you drank in healthKit
 -   [ ] ??? Who knows, I didn't give this much thought. I just wanted to build something simple.
 
