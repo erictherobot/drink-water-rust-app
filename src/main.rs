@@ -1,5 +1,5 @@
 use mac_notification_sys::*;
-// use std::time::Duration;
+// use std::time::Duration; // use this for the sleep function to set / delay reminders
 
 fn main() {
 
